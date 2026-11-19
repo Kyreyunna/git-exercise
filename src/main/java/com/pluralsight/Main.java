@@ -20,3 +20,5 @@ public class Main {
         }
     }
 }
+//You can explain, in one sentence, why the greeting disappeared in Step 5
+//It disappeared bc it only exists in its branch. And I was in main, not the branch.
