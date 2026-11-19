@@ -23,3 +23,6 @@ public class Main {
 }
 //You can explain, in one sentence, why the greeting disappeared in Step 5
 //It disappeared bc it only exists in its branch. And I was in main, not the branch.
+//You can explain, in one or two sentences, how the fix went live without the unfinished goodbye feature
+//the fix of changing the enter prompt went live without also making the goodbye feature go live because
+// the prompt fix was made on the original branch and the goodbye was made in a branch that splits from the original branch and was added last in a merge when it was ready.
